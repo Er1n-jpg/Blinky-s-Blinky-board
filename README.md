@@ -10,7 +10,9 @@ Usually a blinky is someone's first hardware project but it's actually my third.
 
 # How to assemble a blinky!
 Step 1: Gather all of your pcb parts along with your pcb and sort out what goes where according to the 3d view and schematics provided in the production folder
+
 Step 2: Grab a soldering iron and some flux and start soldering!
+
 Step 3: Plug into a power source and watch your blinky go!
 
 # Proccess
