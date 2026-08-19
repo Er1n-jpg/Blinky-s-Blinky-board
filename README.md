@@ -1,3 +1,6 @@
+<img width="420" height="595" alt="A5 - 1" src="https://github.com/user-attachments/assets/14f0fe6f-6fd3-4e21-ac35-51ca9ad6ff3a" />
+
+
 # Blinky Board
 I was today years old when I found out the red ghost in pac-man was named blinky, so this is why I made a blinky board THAT LOOKS LIKE BLINKY!! Blinky has 10 LEDs on him, 2 for his eyes and the other 8 for his mouth (im not really sure that the ghosts actually have mouths in pacman but lets pretend lol)
 
